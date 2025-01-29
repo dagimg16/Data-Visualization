@@ -19,14 +19,17 @@ The analysis aims to:
   - Merged Mouse_metadata.csv and Study_results.csv into a single DataFrame.
   - Identified and removed duplicate time points for the same mouse.
   - Verified the number of unique mice in the cleaned dataset.
+    
 **2. Summary Statistics**
   - Calculated mean, median, variance, standard deviation, and standard error of the mean (SEM) for tumor volume across different drug regimens.
+    
 **3. Data Visualization**
   - Bar Charts: Displayed the total number of observations for each drug regimen using both Pandas and Matplotlib.
   - Pie Charts: Illustrated the distribution of male and female mice in the study using both Pandas and Matplotlib.
   - Box Plots: Showed the distribution of final tumor volumes for the four most promising treatments (Capomulin, Ramicane, Infubinol, Ceftamin) and identified outliers.
   - Line Plot: Tracked tumor volume changes over time for a selected mouse treated with Capomulin.
   - Scatter Plot: Examined the relationship between mouse weight and tumor volume for the Capomulin treatment group.
+    
 **4. Correlation and Regression Analysis**
   - Calculated the correlation coefficient between mouse weight and tumor volume.
   - Performed a linear regression analysis and plotted the regression line on the scatter plot.
@@ -35,6 +38,7 @@ The analysis aims to:
   - Capomulin and Ramicane demonstrated the most promising results in reducing tumor volume.
   - The linear regression model indicated a strong correlation between mouse weight and tumor volume for the Capomulin treatment group.
   - Identified potential outliers in the tumor volume data for certain treatments.
+    
 ## Technologies UsedPython
   - Pandas
   - Matplotlib
@@ -42,9 +46,9 @@ The analysis aims to:
   - SciPy
 ## How to Run the Analysis
   - Clone this repository:
-     `git clone https://github.com/dagimg16/Data-Visualization.git`
+   -  `git clone https://github.com/dagimg16/Data-Visualization.git`
   - Install dependencies:
-    `pip install pandas numpy matplotlib scipy`
+   -  `pip install pandas numpy matplotlib scipy`
   - Run the Jupyter Notebook to execute the analysis.
 
 ## Acknowledgments
