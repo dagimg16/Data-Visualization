@@ -39,7 +39,8 @@ The analysis aims to:
   - The linear regression model indicated a strong correlation between mouse weight and tumor volume for the Capomulin treatment group.
   - Identified potential outliers in the tumor volume data for certain treatments.
     
-## Technologies UsedPython
+## Technologies Used  
+  - Python
   - Pandas
   - Matplotlib
   - NumPy
