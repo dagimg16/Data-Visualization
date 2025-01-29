@@ -1,2 +1,1 @@
-# Data-Visualization
-Pymaceuticals Inc. Analysis
+# Pymaceuticals Inc. Analysis
