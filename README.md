@@ -45,10 +45,10 @@ The analysis aims to:
   - NumPy
   - SciPy
 ## How to Run the Analysis
-  - Clone this repository:
-   -  `git clone https://github.com/dagimg16/Data-Visualization.git`
-  - Install dependencies:
-   -  `pip install pandas numpy matplotlib scipy`
+  - Clone this repository:  
+      `git clone https://github.com/dagimg16/Data-Visualization.git`
+  - Install dependencies:  
+      `pip install pandas numpy matplotlib scipy`
   - Run the Jupyter Notebook to execute the analysis.
 
 ## Acknowledgments
